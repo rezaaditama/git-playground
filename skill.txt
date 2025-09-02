@@ -6,3 +6,7 @@ Skill saat ini :
 - React JS
 - Git and Github
 - Clean Code
+- Vite
+- Express
+- Node Js
+- Atomic Design
