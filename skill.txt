@@ -6,3 +6,6 @@ Skill saat ini :
 - HTML
 - React JS
 - Git and Github
+- Vite
+- Express
+- Node Js
