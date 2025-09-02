@@ -1,0 +1,7 @@
+Skill saat ini :
+
+- Javascript
+- Typescript
+- Tailwind
+- HTML
+- React JS
