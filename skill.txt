@@ -9,3 +9,4 @@ Skill saat ini :
 - Vite
 - Express
 - Node Js
+- Atomic Design
