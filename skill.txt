@@ -3,9 +3,9 @@ Skill saat ini :
 - Javascript
 - Typescript
 - Tailwind
-- HTML
 - React JS
 - Git and Github
+- Clean Code
 - Vite
 - Express
 - Node Js
