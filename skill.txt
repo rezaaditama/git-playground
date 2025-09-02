@@ -5,3 +5,4 @@ Skill saat ini :
 - Tailwind
 - HTML
 - React JS
+- Git and Github
