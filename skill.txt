@@ -10,3 +10,6 @@ Skill saat ini :
 - Express
 - Node Js
 - Atomic Design
+
+Rencana Skill
+- Next JS
